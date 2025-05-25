@@ -8,11 +8,10 @@ This configuration is called Rule 30 because when the three cells are ordered by
 
 # Sample Runs
 
-![image](https://github.com/user-attachments/assets/3095d71f-e9c4-4232-9f29-bb4c8cd62e3f)
-![image](https://github.com/user-attachments/assets/f5a2f601-0846-4828-ac61-e7b3f0e5b8f7)
-![image](https://github.com/user-attachments/assets/5ec27007-7013-4d16-888f-2ceddeaa7a2b)
-![image](https://github.com/user-attachments/assets/46624a84-3559-4063-81c4-c48f260bf038)
-
+![image](https://github.com/user-attachments/assets/ce6facf8-8b21-49cb-8640-62da3245cc6f)
+![image](https://github.com/user-attachments/assets/08d01785-3139-426e-ac95-9b54bb59907e)
+![image](https://github.com/user-attachments/assets/c45b983a-3707-4dad-934d-4a6a3fe36351)
+![image](https://github.com/user-attachments/assets/1374de55-4304-4ffd-89b9-f51d408ec26a)
 
 
 Reference:
